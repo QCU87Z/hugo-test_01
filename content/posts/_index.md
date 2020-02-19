@@ -1,6 +1,6 @@
----
-menu:
-  after:
-    weight: 5
-title: Blog
----
++++
+aliases = ["posts","articles","blog","showcase","docs"]
+title = "Posts"
+author = "Hugo Authors"
+tags = ["index"]
++++
