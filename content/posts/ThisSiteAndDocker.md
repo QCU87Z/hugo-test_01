@@ -21,7 +21,7 @@ docker run -d --rm --name "hugooo" -p 1313:1313 -v /srv/hugo/src:/src qcu87z/hug
 
 ## How to build this container
 
-```bash 
+```bash
 docker build -t qcu87z/hugo:latest .
 ```
 
