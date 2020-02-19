@@ -1,4 +1,4 @@
-# Project Ozone 3 :: todo
+# Project Ozone 3 :: TODO
 
 Things to do in the pack
 
